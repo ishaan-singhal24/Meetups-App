@@ -1,4 +1,4 @@
-# meetups_app
+# Meetups App Flutter
 
 A new Flutter project.
 
